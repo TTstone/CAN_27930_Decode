@@ -5,3 +5,5 @@ While using CANalyer I find the Database file is not well written and some of th
 
 Basically you just need to export your asc file from CANalyer and run with the main.py following information will be exported:
 Time,U_Req,I_Req,U_CCS,I_CCS,U_BCS,I_BCS,Max_T[C],SOC,Time_Charged[min]
+
+Update 2023.02: Deal with charging data without a full charging procedures.
