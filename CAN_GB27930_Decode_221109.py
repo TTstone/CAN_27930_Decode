@@ -1,4 +1,3 @@
-# 2022.11 xiehong@dfmc.com.cn
 # 输出报文第一次出现时间以及具体的充电记录
 import re #正则表达式
 
